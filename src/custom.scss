@@ -1,0 +1,14 @@
+// Override default variables before the import
+$enable-gradients: true;
+$enable-shadows: true;
+
+// Import Bootstrap and its default variables
+@import "~bootstrap/scss/bootstrap.scss";
+
+.react-datepicker-wrapper {
+  display: block;
+}
+
+.react-datepicker__input-container {
+  display: block;
+}
