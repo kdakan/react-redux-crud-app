@@ -9,7 +9,7 @@ class Home extends Component {
         <p />
         This is a React-Redux CRUD app which I've built for demonstration in my
         React & Redux tutorial{" "}
-        <a href="https://kdakan.github.io/Tutorial-On-React-React-Router-and-Redux/">
+        <a href="https://kdakan.github.io/React-React-Router-and-Redux/">
           here
         </a>
         .
