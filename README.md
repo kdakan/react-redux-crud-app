@@ -1,6 +1,6 @@
 ## React-Redux CRUD App
 
-This is a React-Redux CRUD app which I've built for demonstration in my React & Redux tutorial [here](https://kdakan.github.io/Tutorial-On-React-React-Router-and-Redux/).
+This is a React-Redux CRUD app which I've built for demonstration in my React & Redux tutorial [here](https://kdakan.github.io/React-React-Router-and-Redux/).
 
 This app offers paginated and searchable lists, edit forms, client-side routing, Redux actions and reducers, and an api layer, with Bootstrap components like date picker and notifications.
 
